@@ -1,7 +1,7 @@
 // PPL Quiz Backend API Client
 // Include this file in your quiz HTML files to enable backend progress tracking
 
-const API_URL = 'http://localhost:3000/api'; // Change this to your deployed backend URL
+const API_URL = 'ppl-quiz-backend-production.up.railway.app/api'; // Change this to your deployed backend URL
 
 class QuizAPI {
     constructor() {
